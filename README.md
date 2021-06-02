@@ -7,4 +7,4 @@ Unlocker is safe, but the antiviruses could detect it as malware. In case, disab
 ## Is it free to share online?
 Unlocker is free to share oline, but Builder is only for personal use and it is copyright protected. Unlocker builder can only published in this repository.
 ## Where can I download it?
-You can download Unlocker [here](https://vichingo455.github.io/download)
+You can download Unlocker [here](https://vichingo455.github.io/unlocker/download)
